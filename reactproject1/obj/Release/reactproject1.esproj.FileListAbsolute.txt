@@ -1,0 +1,2 @@
+C:\Users\Ely\source\repos\reactproject1\reactproject1\obj\Release\reactproject1.esproj.CoreCompileInputs.cache
+C:\Users\Ely\source\repos\reactTest\reactproject1\obj\Release\reactproject1.esproj.CoreCompileInputs.cache
